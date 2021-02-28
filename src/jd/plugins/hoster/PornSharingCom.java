@@ -1,3 +1,4 @@
+@@ -1,228 +0,0 @@
 //jDownloader - Downloadmanager
 //Copyright (C) 2009  JD-Team support@jdownloader.org
 //
